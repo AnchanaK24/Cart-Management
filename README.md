@@ -1,9 +1,9 @@
 # Cart-Management
-**Introduction:**
--A virtual ecommerce website using Node js, Express js, Express handlebars and Mongoose.
+**Introduction:**<br/>
+A virtual ecommerce website using Node js, Express js, Express handlebars and Mongoose.
  
 **Technology:**
-    **The application is built with:**
+    >The application is built with:**
 >Node.js
 >MongoDB 
 >Express 
