@@ -20,5 +20,5 @@ A virtual ecommerce website using Node js, Express js, Express handlebars and Mo
 *View all the information stored in the database. They can view/add/edit/delete orders,and products.<br/>
 
 **Run:**<br/>
-*You can run "npm start" in the terminal<br/>
+*You can run "npm install" and then "npm start" in the terminal<br/>
 *Use localhoost:8000
