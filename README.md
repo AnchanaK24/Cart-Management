@@ -17,7 +17,7 @@ A virtual ecommerce website using Node js, Express js, Express handlebars and Mo
 *Display the shopping cart<br/>
 
 **Admin can do the following:**<br/>
-*View all the information stored in the database. They can view/add/edit/delete orders,and products.<br/>
+*View all the information stored in the database. <br/>
 
 **Run:**<br/>
 *You can run "npm install" and then "npm start" in the terminal<br/>
